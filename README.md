@@ -103,3 +103,15 @@ GazeLearn/
 
 **Janhavi Naik** | B.Tech Computer Technology, YCCE Nagpur  
 [GitHub](https://github.com/Janhavi1512) • [LinkedIn](https://linkedin.com/in/janhavi-naik-1b5474270)
+
+
+## 📸 Screenshots
+
+### 🖥️ Main Dashboard
+![Main Dashboard](dashboard-main.png)
+
+### ▶️ Session Controls
+![Session Controls](dashboard-session.png)
+
+### 📊 Session Report
+![Session Report](dashboard-report.png)
